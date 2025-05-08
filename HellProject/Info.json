@@ -1,0 +1,12 @@
+﻿{
+  "Id": "HellProject",
+  "DisplayName": "HellProject",
+  "Author": "CascadingDragon/Balkoth",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "HellProject.dll",
+  "EntryMethod": "HellProject.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
